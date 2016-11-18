@@ -1,0 +1,4 @@
+create or replace procedure sp_test_git as 
+begin
+dbms_output.put_line('Testing the SQL Developer - GIT functionality');
+end sp_test_git;
